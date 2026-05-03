@@ -68,14 +68,14 @@ The analysis was conducted manually using **ArcMap 10.7**, following a structure
  ### Maps
 
 All generated ESI maps (monthly and annual) are available here:  
-[View Maps Folder](Mustang_Evapotranspiration_Analysis/Maps/)
+[View Maps Folder](Maps)
 
 ### Preview
 
-![Sample ESI Map for July](Mustang_Evapotranspiration_Analysis/Maps/ESI_July.jpg)
+![Sample ESI Map for July](Maps/ESI_July.jpg)
 
 ### Tables
-- [Monthly Summary](/Mustang-MODIS-Analysis(Sheet1).csv)
+[Monthly Summary](Results and Data/Mustang-MODIS-Analysis(Sheet1).csv)
 
 
 
