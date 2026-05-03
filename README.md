@@ -75,7 +75,7 @@ All generated ESI maps (monthly and annual) are available here:
 ![Sample ESI Map for July](Maps/ESI_July.jpg)
 
 ### Tables
-[Monthly Summary](Results and Data/Mustang-MODIS-Analysis(Sheet1).csv)
+[Monthly Summary](Data/Mustang-MODIS-Analysis(Sheet1).csv)
 
 
 
