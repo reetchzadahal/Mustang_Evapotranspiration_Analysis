@@ -67,7 +67,7 @@ The analysis was conducted manually using **ArcMap 10.7**, following a structure
 
  ### Maps
 
-All generated ESI maps (monthly and annual) are available here:  
+All generated ESI maps, ET maps and PET maps are available here:  
 [View Maps Folder](Maps)
 
 ### Preview
